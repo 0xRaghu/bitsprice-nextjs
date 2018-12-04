@@ -663,7 +663,7 @@
       "publicPath": "static/chunks/commons.b54e4625bcc9265f3718.js"
     }
   ],
-  "../core-js/object/keys": [
+  "@babel/runtime-corejs2/core-js/object/keys": [
     {
       "id": 84,
       "name": "./node_modules/@babel/runtime-corejs2/core-js/object/keys.js",
